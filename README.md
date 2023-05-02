@@ -204,10 +204,12 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
-![Ex4 prg(o)](https://user-images.githubusercontent.com/118704873/235592605-816e62fe-8a9c-41bc-8eea-139666c3f575.jpg)
+![dario](https://user-images.githubusercontent.com/118704873/235593119-3b3b224c-a591-4299-ba82-d21a267630b8.jpg)
+
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
- ![Screenshot 2023-05-02 112802](https://user-images.githubusercontent.com/118704873/235592665-2c5b5070-90fc-4acc-85f7-17c46424f59f.png)
+ [dario.pdf](https://github.com/DARIOGEORGE/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/files/11370226/dario.pdf)
+
 
 
 ## Result :
