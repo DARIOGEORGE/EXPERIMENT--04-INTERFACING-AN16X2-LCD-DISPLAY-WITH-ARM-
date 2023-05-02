@@ -208,7 +208,8 @@ int main(void)
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
- [dario.pdf](https://github.com/DARIOGEORGE/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/files/11370226/dario.pdf)
+ 
+![Screenshot 2023-05-02 115102](https://user-images.githubusercontent.com/118704873/235594510-1f1564ee-db61-4658-bdd7-a202d8c9f1c1.png)
 
 
 
