@@ -200,7 +200,7 @@ int main(void)
   }
 }
 
-
+```
 
 
 ## Output screen shots of proteus  :
