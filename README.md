@@ -204,12 +204,11 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
- ![Output](./image/Screenshot%202023-05-02%20113155.png)
+![Ex4 prg(o)](https://user-images.githubusercontent.com/118704873/235592605-816e62fe-8a9c-41bc-8eea-139666c3f575.jpg)
 
+ ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
+ ![Screenshot 2023-05-02 112802](https://user-images.githubusercontent.com/118704873/235592665-2c5b5070-90fc-4acc-85f7-17c46424f59f.png)
 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-
-![Output](./image/Screenshot%202023-05-02%20112802.png)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
